@@ -26,7 +26,7 @@ demonstrate its usage.
 * Supports PyTorch\* and TensorFlow\*
 * Select from over [100 image classification and text classification models](Models.md) from
   Torchvision, PyTorch Hub, TensorFlow Hub, Keras, and Hugging Face
-* Use your own custom dataset or get started quickly with built-in datasets
+* Use your own custom dataset or get started quickly with [built-in datasets](DATASETS.md)
 * Automatically create a trainable classification layer customized for your dataset
 * Pre-process your dataset using scaling, cropping, batching, and splitting
 * Use APIs for prediction, evaluation, and benchmarking

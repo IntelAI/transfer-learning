@@ -176,7 +176,7 @@ That ends this Get Started CLI example. As a next step, you can also follow the
 [Beyond Get Started CLI Example](examples/cli/README.md) for a complete example
 that includes evaluation, benchmarking, and quantization in the datasets.
 
-Read about all the CLI commands in the [CLI reference](/cli.md).
+Read about all the CLI commands in the [CLI reference](https://intelai.github.io/transfer-learning/main/cli.html).
 Find more examples in our list of [Examples](examples/README.md).
 
 ### Run Using the Low-Code API
@@ -245,7 +245,7 @@ optimization_output = os.path.join(output_dir, "optimized_model")
 model.optimize_graph(optimization_output, overwrite_model=True)
 ```
 
-For more information on the API, see the [API Documentation](/api.md).
+For more information on the API, see the [API Documentation](https://intelai.github.io/transfer-learning/main/api.html).
 
 ## Summary and Next Steps
 
@@ -257,8 +257,8 @@ For the no-code CLI, you can follow a
 complete example that includes trainng, evaluation, benchmarking, and quantization
 in the datasets, as well as some additional models in the [Beyond Get Started
 CLI example](examples/cli/README.md) documentation. You can also read about all the
-CLI commands in the [CLI reference](/cli.md).
+CLI commands in the [CLI reference](https://intelai.github.io/transfer-learning/main/cli.html).
 
-For the low-code API, read about the API in the [API Documentation](/api.md).
+For the low-code API, read about the API in the [API Documentation](https://intelai.github.io/transfer-learning/main/api.html).
 
 Find more CLI and API examples in our list of [Examples](examples/README.md).
